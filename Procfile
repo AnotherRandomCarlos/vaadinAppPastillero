@@ -1,1 +1,1 @@
-web: java -jar pastillero.jar
+web: java -jar pastillerodigital-1.0-SNAPSHOT.jar
