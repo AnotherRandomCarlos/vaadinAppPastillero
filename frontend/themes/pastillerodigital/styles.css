@@ -1,0 +1,5 @@
+@import url('./main-layout.css');
+@import url('./views/medicinas-view.css');
+@import url('./views/añadir-medicina-view.css');
+@import url('./views/datospersonales-view.css');
+@import url('line-awesome/dist/line-awesome/css/line-awesome.min.css');
